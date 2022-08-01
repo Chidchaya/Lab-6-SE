@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab5-SE-Spring-Web-API-master.iml" filepath="$PROJECT_DIR$/.idea/Lab5-SE-Spring-Web-API-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5-SE-Spring-Web-API-master/menu.iml" filepath="$PROJECT_DIR$/Lab5-SE-Spring-Web-API-master/menu.iml" />
+    </modules>
+  </component>
+</project>
